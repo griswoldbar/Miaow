@@ -1,0 +1,3 @@
+This is Miaow, a random MIDI generator. Currently, it takes a chord progression and spits out a (fairly) random tune. You can change the song parameters from the get_song_data method in Director.rb. It will spit out a file called 'whibble.mid' to the program's root directory.
+
+Still very much a work in progress...
